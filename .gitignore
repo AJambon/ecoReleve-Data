@@ -44,5 +44,6 @@ Back/init.txt
 ecoReleve_import/
 Front/package-lock.json
 
+Back/env
 erdenv
 mandatory/*
